@@ -3,8 +3,8 @@
 	"version": "2.2.0",
 	"description": "Solidity flattener.",
 	"main": "index.js",
-	"repository": "https://github.com/Synthetixio/solidifier.git",
-	"author": "Kevin Brown",
+	"repository": "https://github.com/FinancePeri-Team/solidifier.git",
+	"author": "FinancePeri-Team",
 	"license": "MIT",
 	"private": false,
 	"dependencies": {
