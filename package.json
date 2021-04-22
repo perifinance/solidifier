@@ -3,8 +3,8 @@
 	"version": "2.2.0",
 	"description": "Solidity flattener.",
 	"main": "index.js",
-	"repository": "https://github.com/FinancePeri-Team/solidifier.git",
-	"author": "FinancePeri-Team",
+	"repository": "https://github.com/perifinance/solidifier.git",
+	"author": "perifinance",
 	"license": "MIT",
 	"private": false,
 	"dependencies": {
